@@ -18,7 +18,8 @@ We investigated three research questions:
 Key findings:
 
 Red Code results in 15 times more reported Jira defects than Healthy code.
-![Number of issues](https://github.com/mrksbrg/code-health-study-tech-debt-2022/blob/master/figures/code_health_number_of_issues.png | width=100)
+
+<img src="https://github.com/mrksbrg/code-health-study-tech-debt-2022/blob/master/figures/code_health_number_of_issues.png" alt="RQ1: Number of issues" width="150"/>
 
 ## How To Cite This Work
 Please cite this work as follows:
