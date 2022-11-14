@@ -27,6 +27,7 @@ The time-in-development in Red Code is 124% longer compared to Healthy Code.
 The maximum time-in-development for the Red Code is 9 times longer compared to Healthy Code.
 <img src="https://github.com/mrksbrg/code-health-study-tech-debt-2022/blob/master/figures/max_time_in_development.png" alt="RQ3: Maximum time-in-development" width="600"/>
 
+Conclusion: Our results show that there is a significant impact of code quality on both time to market as well as the external quality of the product in the shape of software defects.
 
 ## How To Cite This Work
 Please cite this work as follows:
