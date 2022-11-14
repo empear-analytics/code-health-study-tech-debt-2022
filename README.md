@@ -15,15 +15,15 @@ We investigated three research questions:
 1. How much longer development time is needed to resolve an issue in files with low quality source code?
 1. To what extent is the code quality of a file related to the predictability of resolving issues on time?
 
-### Red Code results in 15 times more reported Jira defects than Healthy Code.
+### Red Code results in 15 times more reported Jira defects than Healthy Code
 
 <img src="https://github.com/mrksbrg/code-health-study-tech-debt-2022/blob/master/figures/code_health_number_of_issues.png" alt="RQ1: Number of issues" width="600"/>
 
-### The time-in-development in Red Code is 124% longer compared to Healthy Code.
+### The time-in-development in Red Code is 124% longer compared to Healthy Code
 
 <img src="https://github.com/mrksbrg/code-health-study-tech-debt-2022/blob/master/figures/mean_for_time_in_development.png" alt="RQ2: Average time-in-development" width="600"/>
 
-### The maximum time-in-development for the Red Code is 9 times longer compared to Healthy Code.
+### The maximum time-in-development for the Red Code is 9 times longer compared to Healthy Code
 
 <img src="https://github.com/mrksbrg/code-health-study-tech-debt-2022/blob/master/figures/max_time_in_development.png" alt="RQ3: Maximum time-in-development" width="600"/>
 
