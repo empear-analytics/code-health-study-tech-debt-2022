@@ -1,6 +1,6 @@
 # Code Health and Technical Debt Study 2022
 
-This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper by A. Tornhill & M. Borg, "Code Red: The Business Impact of Code Quality: A Quantitative Study of 39 Proprietary Production Codebases", 2022. The [paper](https://www.computer.org/csdl/proceedings-article/techdebt/2022/930400a011/1EygGuOH3e8) is published in the Proc. of 2022 IEEE/ACM International Conference on Technical Debt (TechDebt). A [preprint](https://arxiv.org/abs/2203.04374) is available on arXiv.
+This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper by A. Tornhill & M. Borg, "Code Red: The Business Impact of Code Quality: A Quantitative Study of 39 Proprietary Production Codebases", 2022. The [paper](https://www.computer.org/csdl/proceedings-article/techdebt/2022/930400a011/1EygGuOH3e8) is published in the [Proc. of 2022 IEEE/ACM International Conference on Technical Debt (TechDebt)](https://2022.techdebtconf.org/). A [preprint](https://arxiv.org/abs/2203.04374) is available on arXiv.
 
 The data is based on the [Code Health metric](https://codescene.com/code-health/) and collected via CodeScene. Instructions for reproducing the study are available in the Jupyter Notebook.
 
