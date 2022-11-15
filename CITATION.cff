@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Code Red: The Business Impact of Code Quality - A
+  Quantitative Study of 39 Proprietary Production
+  Codebases, In Proc. of the 2022 IEEE/ACM Int'l.
+  Conf. on Technical Debt (TechDebt)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Adam
+    family-names: Tornhill
+    email: adam.tornhill@codescene.com
+    affiliation: CodeScene
+  - given-names: Markus
+    family-names: Borg
+    email: markus.borg@cs.lth.se
+    affiliation: Lund University
+    orcid: 'https://orcid.org/0000-0001-7879-4371'
+identifiers:
+  - type: doi
+    value: 10.1145/3524843.3528091
+    description: Academic publication
+license: GPL-3.0
